@@ -14,8 +14,6 @@ resetで消えるかテスト2
 残したい変更
 
 # squash1
-1
-2
 squashしたいやつ1
 squashの間に挟まるやつ
 squahしたいやつ2
