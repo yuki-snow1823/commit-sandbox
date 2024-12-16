@@ -27,3 +27,5 @@ squashしたい
 
 
 squashしたくない
+
+# reflog
