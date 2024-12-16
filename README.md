@@ -20,3 +20,6 @@ squahしたいやつ2
 
 squashしたいsquashしたい2
 squashしたくない
+squashしたい
+
+squashしたい2
