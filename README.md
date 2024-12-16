@@ -16,3 +16,4 @@ resetで消えるかテスト2
 # squash1
 1
 2
+squashしたいやつ1
