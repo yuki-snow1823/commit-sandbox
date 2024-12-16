@@ -17,3 +17,6 @@ resetで消えるかテスト2
 squashしたいやつ1
 squashの間に挟まるやつ
 squahしたいやつ2
+
+squashしたい
+squashしたくない
