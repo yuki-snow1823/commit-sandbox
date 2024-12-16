@@ -18,5 +18,5 @@ squashしたいやつ1
 squashの間に挟まるやつ
 squahしたいやつ2
 
-squashしたい
+squashしたいsquashしたい2
 squashしたくない
