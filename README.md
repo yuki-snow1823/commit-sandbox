@@ -23,3 +23,5 @@ squashしたくない
 squashしたい
 
 squashしたい2
+squashしたい
+
