@@ -29,3 +29,4 @@ squashしたい
 squashしたくない
 
 # reflog
+消したいコミット
