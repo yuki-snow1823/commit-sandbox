@@ -1,3 +1,2 @@
 amendしたい差分1
 amendしたい差分2
-amendしたい差分3
